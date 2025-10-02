@@ -7,7 +7,7 @@ layout: default
 
 # Donate to Raghda's family
 
-In order to receive donations, Raghda's friends have set up a [GoFundMe Campaign](https://gofund.me/a47ed4bfc) so she and her children can continue to resist through the genocide.
+In order to receive donations, Raghda's friends have set up a [campaign](https://gofund.me/a47ed4bfc) so you can help her and her children continue to resist through the genocide.
 
 # Raghda's story
 
