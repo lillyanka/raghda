@@ -20,7 +20,7 @@
 
 title: Help Raghda's Family
 email: your-email@example.com
-logo: /assets/img/raghda3.jpeg # Path to your logo
+logo: /img/raghda3.jpeg # Path to your logo
 description: >- # this means to ignore newlines until "baseurl:"
   Raghda Alsaidi is a mom of 2 kids, raising them alone in Gaza in the midst of a genocide.
 baseurl: "/raghda" # the subpath of your site, e.g. /blog
